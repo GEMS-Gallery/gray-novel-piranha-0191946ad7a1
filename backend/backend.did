@@ -1,0 +1,4 @@
+service : {
+  getRoomUrl: () -> (text) query;
+  healthCheck: () -> (text) query;
+}
